@@ -1,0 +1,6 @@
+{
+    "bank1" : {"fname" : "Stavros","lname" : "S","card_id" : "1234","card_pass":"1234"},
+    "bank2" :  {"fname" : "Stavros","lname" : "S","card_id" : "1234","card_pass":"1234"},
+    "bank3" : {"fname" : "Stavros","lname" : "S","card_id" : "1234","card_pass":"1234"}
+
+}
